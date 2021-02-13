@@ -1,0 +1,3 @@
+$env:ARM_CLIENT_ID =""
+$env:ARM_SUBSCRIPTION_ID =""
+$ENV:ARM_TENANT_ID = ""
